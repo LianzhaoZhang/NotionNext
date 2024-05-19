@@ -242,8 +242,8 @@ const BLOG = {
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
       name: '此生不换',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=1934168650.mp3',
+      artist: '青鸟飞鱼',
+      url: 'https://freetyst.nf.migu.cn/public/product5th/product28/2019/02/26/2018%E5%B9%B408%E6%9C%8802%E6%97%A508%E7%82%B953%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E5%8D%8E%E7%BA%B3444%E9%A6%96/%E6%A0%87%E6%B8%85%E9%AB%98%E6%B8%85/MP3_128_16_Stero/6005751EFTP.mp3',
       cover:
         'https://p1.music.126.net/EWzFWpzam2Gj7dKGFEXFGw==/109951167230087045.jpg'
     },
@@ -254,20 +254,26 @@ const BLOG = {
       cover:
         'https://p1.music.126.net/m0ykr8oEQFVp-EaCl7Bkzw==/109951169463827751.jpg'
     },
-
-    {
-      name: '飞云之下',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=1366052804.mp3',
-      cover:
-        'http://p2.music.126.net/YsQrEZ_M6kduwN2zh6Q6kg==/109951163311406661.jpg'
-    },
     {
       name: '可惜没如果',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=554242032.mp3',
+      url: 'https://freetyst.nf.migu.cn/public/product9th/product46/2023/03/2016/2018%E5%B9%B411%E6%9C%8805%E6%97%A520%E7%82%B925%E5%88%86%E6%89%B9%E9%87%8F%E9%A1%B9%E7%9B%AE%E5%8D%8E%E7%BA%B333%E9%A6%96-1/%E6%A0%87%E6%B8%85%E9%AB%98%E6%B8%85/MP3_128_16_Stero/6005751KT2J164301.mp3',
       cover:
         'https://p2.music.126.net/xH5uX9f5ymnPgPD5E25myA==/109951164081863001.jpg'
+    },
+    {
+      name: '背对背拥抱',
+      artist: '林俊杰',
+      url: 'https://freetyst.nf.migu.cn/public/product10th/productB36/2021/11/0316/2009%E5%B9%B412%E6%9C%8808%E6%97%A5%E6%B5%B7%E8%9D%B6%E5%94%B1%E7%89%87/%E6%A0%87%E6%B8%85%E9%AB%98%E6%B8%85/MP3_320_16_Stero/60058622727160700.mp3',
+      cover:
+        'http://p1.music.126.net/7qfuUAFFTHH5Kb868ceFPw==/109951168111261917.jpg'
+    },
+    {
+      name: '飞云之下',
+      artist: '韩红，林俊杰',
+      url: 'https://api.liumingye.cn/m/api/link?id=b3f634HzOLrfMF9SfoAo4YFOZEhQExs2CmWV9fvUDiqd3TWvxPw&quality=320&_t=1716117772471',
+      cover:
+        'http://p1.music.126.net/YsQrEZ_M6kduwN2zh6Q6kg==/109951163311406661.jpg'
     },
     {
       name: '故乡',
@@ -283,13 +289,7 @@ const BLOG = {
       cover:
         'http://p2.music.126.net/afGMbOf7SauRBMYlzLRBMg==/109951164728026153.jpg'
     },
-    {
-      name: '出埃及记',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=1440590784.mp3',
-      cover:
-        'http://p3.music.126.net/b61wr7EyEVA5F4oAATWrMw==/109951165509765343.jpg'
-    },
+
     {
       name: 'Go Time',
       artist: 'Falcom Sound Team jdk',
